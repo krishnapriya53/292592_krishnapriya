@@ -1,0 +1,1 @@
+from .strop import get_span,reverseword,remove_punctuation,count_words,character_map, makeTitle, normalizespace,transform, get_permutations
