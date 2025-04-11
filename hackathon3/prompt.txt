@@ -1,0 +1,7 @@
+Write a set of unit tests for an EmployeeManager class that supports adding, finding, and deleting employees
+
+test_add_employee= Ensure a new employee is added with correct name and calculated net salary.
+
+test_find_by_id= Check that an employee can be retrieved by ID after being added.
+
+test_delete_employee= Confirm that an employee is deleted successfully and can no longer be found by id. 
